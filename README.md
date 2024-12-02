@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Baptiste</h1>
-<h3 align="center">A passionate novice designer from Baguette land</h3>
+<h3 align="center">A passionate novice designer from France</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
